@@ -1,0 +1,128 @@
+#about {
+    color: #FF5DA3;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    display: inline;
+}
+
+#what, #contact, #help {
+    display: inline;
+    font-family: Inter;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+#next {
+    margin-bottom: -15px;
+    margin-left: 65px;
+    margin-right: 140px;
+}
+
+#contactUs {
+    margin-left: 140px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    color: white;
+    border: none;
+}
+
+#nav {
+    margin: auto;
+    width: 1140px;
+}
+
+#teacher {
+    width: 1316px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+#instructor {
+    color: #FF5DA3;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: inter;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+#unlock {
+    text-align: center;
+    font-family: "IBM Plex Sans KR";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: instrument-sans;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#unlockTwo {
+    font-size: 24px;
+    font-family: inter;
+    font-weight: 400;
+    text-align: center;
+    width: 716px;
+    margin: auto;
+}
+
+#become {
+    background-color: #00AC25;
+    padding: 14px 16px;
+    border: none;
+    border-radius: 8px;
+    color: white;   
+    margin-left: 537px;
+    margin-top: 20px;
+    margin-bottom: 500px;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #53389E;
+}
+
+#feet {
+    margin: auto;
+    width: 1280px;
+    height: 128px;
+}
+
+h3 {
+    margin-top: 60px;
+    display: inline;
+    color: white;
+    font-family: inter;
+    font-weight: 500;
+    margin-right: 90px;
+}
+
+#content {
+    margin: auto;
+    margin-left: 80px;
+    margin-bottom: -13px;
+    margin-top: 60px;
+}
+
+#overview, #features, #pricing, #careers, #helpTwo, #copy {
+    display: inline;
+    margin-left: 40px;
+    color: white;
+    font-family: inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#copy {
+    margin-left: 120px;
+    color: #D6BBFB;
+}
